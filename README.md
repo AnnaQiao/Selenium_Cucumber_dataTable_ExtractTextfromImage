@@ -31,21 +31,21 @@ Recently, my ten years old son study hacker skills, he is success when he attack
   - Here is java test script by using DataTable which navigates to register in aliexpress website.
 
    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/dataTable.JPG)
-### How to extract text code from picture verification in selenium
-    - Following picture is java code about how to get screenshot in selenium
+### 4.How to extract text code from picture verification in selenium
+    - 1. Following picture is java code about how to get screenshot in selenium
    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/screenshot.JPG)
     
-    - This follow java code is that how to convert picture to text by using Tesseract
+    - 2. This follow java code is that how to convert picture to text by using Tesseract
     
    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/extract.JPG)
-### Testing result
+### 5.Testing result
   - 1. we can get test.jpg under it's directory, for example I got this screenshot by testing code
 
-    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/test.jpg)
+  ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/test.jpg)
   
   - 2. test result of this instance, the following picture.
    
-    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/testResult.JPG)
+ ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/testResult.JPG)
   
 ## Conclusion
   The charaters picture varification code is more strong than slider picture varification !!!, I can not use Tesseract to get the text code.
