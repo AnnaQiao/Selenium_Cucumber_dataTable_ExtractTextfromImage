@@ -33,8 +33,16 @@ Recently, my ten years old son study hacker skills, he is success when he attack
    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/dataTable.JPG)
 ### How to extract text code from picture verification in selenium
     - Following picture is java code about how to get screenshot in selenium
-    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/screenshot.JPG)
+   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/screenshot.JPG)
     
     - This follow java code is that how to convert picture to text by using Tesseract
     
-    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/extract.JPG)
+   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/extract.JPG)
+### Testing result
+   1. we can get test.jpg under it's directory, for example I got this screenshot by testing code
+
+   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/test.JPG)
+  
+   2. test result of this instance, the following picture.
+      ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/testResult.JPG)
+      
