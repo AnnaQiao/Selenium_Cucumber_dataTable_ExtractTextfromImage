@@ -25,5 +25,16 @@ Recently, my ten years old son study hacker skills, he is success when he attack
     2. this work  only for the single step, below which it is defined.
     3. it can be run single or mutiple times but again for the single step, not for complete test.
   - The following picture is Data table in feature 
-![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/feature.JPG)
+  
+   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/feature.JPG)
 
+  - Here is java test script by using DataTable which navigates to register in aliexpress website.
+
+   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/dataTable.JPG)
+### How to extract text code from picture verification in selenium
+    - Following picture is java code about how to get screenshot in selenium
+    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/screenshot.JPG)
+    
+    - This follow java code is that how to convert picture to text by using Tesseract
+    
+    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/extract.JPG)
