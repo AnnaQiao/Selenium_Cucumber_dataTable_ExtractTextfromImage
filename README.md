@@ -46,4 +46,6 @@ Recently, my ten years old son study hacker skills, he is success when he attack
   - 2. test result of this instance, the following picture.
    
       ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/testResult.JPG)
-      
+  
+## Conclusion
+  The charaters picture varification code is more strong than slider picture varification !!!, I can not use Tesseract to get the text code.
