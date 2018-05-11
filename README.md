@@ -39,10 +39,11 @@ Recently, my ten years old son study hacker skills, he is success when he attack
     
    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/extract.JPG)
 ### Testing result
-   1. we can get test.jpg under it's directory, for example I got this screenshot by testing code
+  - 1. we can get test.jpg under it's directory, for example I got this screenshot by testing code
 
-   ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/test.JPG)
+    ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/test.JPG)
   
-   2. test result of this instance, the following picture.
+  - 2. test result of this instance, the following picture.
+   
       ![](https://github.com/AnnaQiao/SeleniumeExtractTextfromImage/blob/master/pictures/testResult.JPG)
       
